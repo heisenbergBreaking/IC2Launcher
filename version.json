@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "format":  "files-v1",
     "files":  [
                   {
@@ -38947,9 +38947,9 @@
                   },
                   {
                       "path":  "ForgeServerLauncher/launcher-config.json",
-                      "sha256":  "390cbdb4b2991ba43c071ea7a69404887adbef78ffa3b2ebf928fd01efabdbb4",
+                      "sha256":  "bb7a130989e73d4d873cd9f2fd9b01e87ade0a80f69ff69ebef8d8a18a18b162",
                       "size":  544,
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/39/390cbdb4b2991ba43c071ea7a69404887adbef78ffa3b2ebf928fd01efabdbb4",
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/bb/bb7a130989e73d4d873cd9f2fd9b01e87ade0a80f69ff69ebef8d8a18a18b162",
                       "parts":  [
 
                                 ]
