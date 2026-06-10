@@ -1,0 +1,8 @@
+﻿# Local editable launcher source. Do not push this raw folder to GitHub.
+client/
+runtime/
+
+# Generated update files are kept intentionally.
+*.log
+*.tmp
+desktop.ini
