@@ -1,0 +1,27 @@
+
+[ban]
+	#Items to delete. Use item ids like "minecraft:diamond".
+	#You can also ban item tags with a # prefix, for example "#forge:ingots/iron".
+	bannedItems = ["minecraft:barrier"]
+	#Exact item stacks to delete, including NBT.
+	#Use /clears banhand in game to add the item currently held in your main hand.
+	bannedStacks = []
+	#Items whose recipes should be removed, without deleting the item from inventories.
+	#Use /clears bancraft in game to add an item id.
+	craftBannedItems = []
+	#Remove recipes whose result is a banned item when the server starts.
+	removeRecipes = true
+	#Send a chat message when a banned item is removed from a player inventory.
+	notifyPlayers = true
+
+[scan]
+	#How often player inventories and opened menus are scanned. 20 ticks = 1 second.
+	#Range: 1 ~ 1200
+	playerScanIntervalTicks = 1
+	#How often loaded storages near players are scanned. 20 ticks = 1 second.
+	#Range: 20 ~ 12000
+	storageScanIntervalTicks = 200
+	#Radius around each player, in chunks, for periodic storage cleanup.
+	#Range: 0 ~ 12
+	storageScanRadiusChunks = 3
+
