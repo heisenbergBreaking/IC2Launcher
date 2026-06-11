@@ -1,12 +1,12 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "format":  "files-v1",
     "files":  [
                   {
                       "path":  "ForgeServerLauncher/ForgeServerLauncher.exe",
-                      "sha256":  "5d885c55ff01a451b5f15a467a36ea6a6dcaa594917cc91277929d00d4bc67dd",
-                      "size":  233575,
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/5d/5d885c55ff01a451b5f15a467a36ea6a6dcaa594917cc91277929d00d4bc67dd",
+                      "sha256":  "818f2feefec957755e585628a14b22feaa59d1b880afda62a02dd961ac0f9d21",
+                      "size":  231527,
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/81/818f2feefec957755e585628a14b22feaa59d1b880afda62a02dd961ac0f9d21",
                       "parts":  [
 
                                 ]
