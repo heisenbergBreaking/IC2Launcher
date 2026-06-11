@@ -1,12 +1,21 @@
 {
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "format":  "files-v1",
     "files":  [
                   {
+                      "path":  "ForgeServerLauncher/dist/ForgeServerLauncher/game/mods/ic2launcher-client-patch-1.0.0.jar",
+                      "sha256":  "9405f859533b21a17cd532c2f4d506b2bc3feb8a8188573fe2a3a1bdfd7e2c85",
+                      "size":  8466,
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/94/9405f859533b21a17cd532c2f4d506b2bc3feb8a8188573fe2a3a1bdfd7e2c85",
+                      "parts":  [
+
+                                ]
+                  },
+                  {
                       "path":  "ForgeServerLauncher/ForgeServerLauncher.exe",
-                      "sha256":  "fc22411e9c9c1638d513aa1a4f16ca5021b0833df5586c52a29ba7de67ab081a",
-                      "size":  234599,
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/fc/fc22411e9c9c1638d513aa1a4f16ca5021b0833df5586c52a29ba7de67ab081a",
+                      "sha256":  "7544bec5f507fdbc39d8e740eccc336055aa44c8f152419a7c1f6a49d99674f1",
+                      "size":  243303,
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/75/7544bec5f507fdbc39d8e740eccc336055aa44c8f152419a7c1f6a49d99674f1",
                       "parts":  [
 
                                 ]
@@ -38200,9 +38209,9 @@
                   },
                   {
                       "path":  "ForgeServerLauncher/game/mods/ic2launcher-client-patch-1.0.0.jar",
-                      "sha256":  "bb85c22417405cf1da3d92c6c81d1b57bf55848315a3327ea1b036eb75f1dc5e",
-                      "size":  3801,
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/bb/bb85c22417405cf1da3d92c6c81d1b57bf55848315a3327ea1b036eb75f1dc5e",
+                      "sha256":  "9405f859533b21a17cd532c2f4d506b2bc3feb8a8188573fe2a3a1bdfd7e2c85",
+                      "size":  8466,
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/94/9405f859533b21a17cd532c2f4d506b2bc3feb8a8188573fe2a3a1bdfd7e2c85",
                       "parts":  [
 
                                 ]
@@ -38947,9 +38956,9 @@
                   },
                   {
                       "path":  "ForgeServerLauncher/launcher-config.json",
-                      "sha256":  "41daaf57b791481906e1dca1f2ed1cb4d5efbbdb0ea7842e241ca32dd07e4126",
-                      "size":  567,
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/41/41daaf57b791481906e1dca1f2ed1cb4d5efbbdb0ea7842e241ca32dd07e4126",
+                      "sha256":  "cdd40d7f84053c9498fb86307b7aecbf5b1e92934578121379564ed9381fd498",
+                      "size":  612,
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/files/cd/cdd40d7f84053c9498fb86307b7aecbf5b1e92934578121379564ed9381fd498",
                       "parts":  [
 
                                 ]
