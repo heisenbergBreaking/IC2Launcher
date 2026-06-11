@@ -1,6 +1,15 @@
-﻿# Local editable launcher source. Do not push this raw folder to GitHub.
-client/
+﻿# Java runtime is local and should not be pushed to GitHub.
 runtime/
+
+# Local player/runtime data from Minecraft client.
+client/logs/
+client/crash-reports/
+client/saves/
+client/screenshots/
+client/launcher-natives/
+client/.mixin.out/
+client/usercache.json
+client/usernamecache.json
 
 # Generated update files are kept intentionally.
 *.log
