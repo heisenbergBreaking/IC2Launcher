@@ -725,7 +725,7 @@ element {
 }
 
 element {
-  source = Р­С‚Рѕ Р»СѓС‡С€РёР№ СЃРµСЂРІРµСЂ!
+  source = Это лучший сервер!
   source_mode = direct
   shadow = true
   refresh = false
