@@ -1997,15 +1997,6 @@
                                            "path":  "org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar",
                                            "url":  "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar"
                                        }
-                      },
-                      {
-                          "name":  "org.bytedeco:ffmpeg:7.1.1-1.5.12:windows-x86_64",
-                          "artifact":  {
-                                           "sha1":  "c7e041de55d71cdef45bb6fb3c7d9331d737f25d",
-                                           "size":  26340692,
-                                           "path":  "libraries/org/bytedeco/ffmpeg/7.1.1-1.5.12/ffmpeg-7.1.1-1.5.12-windows-x86_64.jar",
-                                           "url":  "https://repo1.maven.org/maven2/org/bytedeco/ffmpeg/7.1.1-1.5.12/ffmpeg-7.1.1-1.5.12-windows-x86_64.jar"
-                                       }
                       }
                   ],
     "assetIndex":  {
