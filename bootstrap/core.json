@@ -1,0 +1,16 @@
+﻿{
+    "version":  "20260620103631",
+    "url":  "",
+    "sha256":  "098531ef31154b69e20cd435b5c354d04a895b11669ce0f250bb925ae492e61b",
+    "size":  150856839,
+    "parts":  [
+                  {
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/bootstrap/IC2LauncherCore.exe.001",
+                      "size":  99614720
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/bootstrap/IC2LauncherCore.exe.002",
+                      "size":  51242119
+                  }
+              ]
+}

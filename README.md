@@ -1,3 +1,3 @@
-﻿# IC2Launcher
+# IC2Launcher
 
-РђРІС‚РѕРѕР±РЅРѕРІР»РµРЅРёСЏ Р»Р°СѓРЅС‡РµСЂР°.
+Launcher auto updates.
