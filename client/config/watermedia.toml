@@ -1,4 +1,4 @@
-[decoders]
+﻿[decoders]
   # Decoder fails when PNG chunk data doesn't match with the CRC
   pngFailOnCorruptedData = true
 
@@ -55,7 +55,7 @@
   # Adds this path to the discovery path
   # Path must not be the fat ffmpeg.exe file
   # path must be a runtime path
-  customFFMPEGPath = "C:\\Users\\bisne\\AppData\\Roaming\\.minecraft"
+  customFFMPEGPath = ""
 
 [media.platforms]
     # BiliBili session cookie for authenticated access
