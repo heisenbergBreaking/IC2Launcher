@@ -1,16 +1,9 @@
-﻿{
-    "version":  "20260620174043",
-    "url":  "",
-    "sha256":  "c7cef64c3b35184c3f1c49127554e3ab0fceb0340058eaae8d8c1a2ad0091cc0",
-    "size":  150860935,
+{
+    "version":  "20260621192546",
+    "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/bootstrap/IC2LauncherCore.exe",
+    "sha256":  "db5ecc6cc8a3eb89c54f361e35dc16e0e910a432d1edde44ea76ceea3e819225",
+    "size":  5120,
     "parts":  [
-                  {
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/bootstrap/IC2LauncherCore.exe.001",
-                      "size":  99614720
-                  },
-                  {
-                      "url":  "https://raw.githubusercontent.com/heisenbergBreaking/IC2Launcher/main/bootstrap/IC2LauncherCore.exe.002",
-                      "size":  51246215
-                  }
+
               ]
 }
